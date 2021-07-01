@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: naughty-words
+Version: 0.0.1
+Summary: Naugty words parser for python
+Home-page: https://github.com/g0phergit/naughty-words.py
+Author: Gopher
+Author-email: gopherubuntouch@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/g0phergit/naughty-words.py/issues
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GPLv3 License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
