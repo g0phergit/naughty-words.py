@@ -1,9 +1,0 @@
-README.md
-setup.py
-./naughty_word/__init__.py
-./naughty_word/config.py
-./naughty_word/naughtywords.py
-naughty_words.egg-info/PKG-INFO
-naughty_words.egg-info/SOURCES.txt
-naughty_words.egg-info/dependency_links.txt
-naughty_words.egg-info/top_level.txt
