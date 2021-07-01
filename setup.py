@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="naughty_words_py",
-    version="0.0.1",
+    version="1.0.0",
     author="Gopher",
     author_email="gopherubuntouch@gmail.com",
     description="Naugty words parser for python",
